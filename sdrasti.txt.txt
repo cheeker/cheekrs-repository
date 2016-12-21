@@ -1,1 +1,2 @@
 print("sdrasti")
+print("privet vsem")
